@@ -36,5 +36,7 @@ rf.setIdFirma("id-firma");
 Firmador firmador = new Firmador(rf);
 firmador.firmar();
 ```
-- lo necesario para poder utilizarlo es el jks para la firma y el xml de entrada
+- lo necesario para poder utilizarlo es el jks para la firma y el contenido del xml de entrada
+
+***************
 
