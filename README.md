@@ -40,3 +40,9 @@ firmador.firmar();
 
 ***************
 
+- **bel.sii**: Se encarga de realizar la comunicación con el SII (crea XML, obtiene la semilla, el token, sube archivos, ...) contiene comentarios marcados con TODO para que sean implementados si lo requieren (algunos pojos).
+
+***************
+
+
+
